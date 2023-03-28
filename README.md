@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rowell Jay Rodriguez</h1>
+<h1 align="center">Hi, I'm Rowell Jay Rodriguez 👋 </h1>
 <h3 align="center">A junior in learning Web-Development</h3>
 <img align="right" width="400" src="https://img.freepik.com/free-vector/webinar-concept-illustration_114360-4764.jpg?w=996&t=st=1679874440~exp=1679875040~hmac=017c5ed7b973e208dc47a134d9a45ff6835e2fb74e714c3b1becc204700098b9" alt="my-image" />
 - 🔭 I’m currently working on **A Portfolio Projects**
