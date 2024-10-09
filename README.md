@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://web.facebook.com/rowelljay.rodriguez/](https://web.facebook.com/rowelljay.rodriguez/)
 
-- ⚡ Fun fact **"I am an Ackward Person :D"**
+- ⚡ You'll realize when everything is too late.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
